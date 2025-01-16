@@ -1,0 +1,6 @@
+.page-privacy ul {
+  @apply list-disc pl-4 mb-5;
+}
+
+.page-privacy li {
+}
