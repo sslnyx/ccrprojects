@@ -14,8 +14,8 @@ Ensure you have the following installed:
 1. Clone the Repository
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/sslnyx/ccrprojects.git
+   cd ccrprojects
    ```
 
 2. **Install Dependencies**
